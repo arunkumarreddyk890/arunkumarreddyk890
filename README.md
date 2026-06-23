@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A11CB&height=220&section=header&text=JAVA%20FULL%20STACK%20DEVELOPER&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+
+<!-- ===================== PROFILE IMAGE ===================== -->
+<p align="center">
+  <img src="https://github.com/arunkumarreddyk890.png" width="140" alt="Arun Kumar Reddy"/>
+</p>
 <!-- ===================== PROFILE IMAGE ===================== -->
 <!-- ===================== PROFILE IMAGE ===================== -->
 <!-- ===================== PROFILE IMAGE ===================== -->
