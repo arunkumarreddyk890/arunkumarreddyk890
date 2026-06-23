@@ -4,10 +4,20 @@
 </p>
 
 <!-- ===================== PROFILE IMAGE ===================== -->
+<!-- ===================== PROFILE IMAGE ===================== -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/arunkumarreddyk890"
-       width="140"
-       alt="Arun Kumar Reddy" />
+  <svg width="140" height="140" viewBox="0 0 140 140">
+    <defs>
+      <clipPath id="circleView">
+        <circle cx="70" cy="70" r="70" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://github.com/arunkumarreddyk890.png"
+      width="140"
+      height="140"
+      clip-path="url(#circleView)" />
+  </svg>
 </p>
 
 <h1 align="center">👋 Hi, I'm Arun Kumar Reddy</h1>
