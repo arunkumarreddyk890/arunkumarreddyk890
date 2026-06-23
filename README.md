@@ -5,7 +5,9 @@
 
 <!-- ===================== PROFILE IMAGE ===================== -->
 <p align="center">
- <img src="https://github.com/arunkumarreddyk890.png" width="140" style="border-radius:9999px;" />
+  <img src="https://avatars.githubusercontent.com/arunkumarreddyk890"
+       width="140"
+       alt="Arun Kumar Reddy" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Arun Kumar Reddy</h1>
