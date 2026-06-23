@@ -5,18 +5,22 @@
 
 <!-- ===================== PROFILE IMAGE ===================== -->
 <!-- ===================== PROFILE IMAGE ===================== -->
+<!-- ===================== PROFILE IMAGE ===================== -->
 <p align="center">
-  <svg width="140" height="140" viewBox="0 0 140 140">
+  <svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <clipPath id="circleView">
-        <circle cx="70" cy="70" r="70" />
+      <clipPath id="circle">
+        <circle cx="70" cy="70" r="70"/>
       </clipPath>
     </defs>
     <image
-      href="https://github.com/arunkumarreddyk890.png"
+      x="0"
+      y="0"
       width="140"
       height="140"
-      clip-path="url(#circleView)" />
+      clip-path="url(#circle)"
+      href="https://raw.githubusercontent.com/arunkumarreddyk890/arunkumarreddyk890/main/profile.png"
+    />
   </svg>
 </p>
 
