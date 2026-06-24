@@ -8,26 +8,6 @@
 <p align="center">
   <img src="https://github.com/arunkumarreddyk890.png" width="140" alt="Arun Kumar Reddy"/>
 </p>
-<!-- ===================== PROFILE IMAGE ===================== -->
-<!-- ===================== PROFILE IMAGE ===================== -->
-<!-- ===================== PROFILE IMAGE ===================== -->
-<p align="center">
-  <svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <clipPath id="circle">
-        <circle cx="70" cy="70" r="70"/>
-      </clipPath>
-    </defs>
-    <image
-      x="0"
-      y="0"
-      width="140"
-      height="140"
-      clip-path="url(#circle)"
-      href="https://raw.githubusercontent.com/arunkumarreddyk890/arunkumarreddyk890/main/profile.png"
-    />
-  </svg>
-</p>
 
 <h1 align="center">👋 Hi, I'm Arun Kumar Reddy</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Fresher</h3>
